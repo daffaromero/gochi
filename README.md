@@ -1,2 +1,2 @@
-# goevent
-Event-driven stuff. Kafka this Golang that. Yes.
+# gochi
+Golang. Chi. Redis.
